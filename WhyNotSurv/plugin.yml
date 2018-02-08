@@ -1,0 +1,6 @@
+name: WhyNotSurvive
+version: 1.0
+author: Shinairu
+main: fr.whynot.core.Core
+
+commands:
