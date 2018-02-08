@@ -14,6 +14,7 @@ public class Core extends JavaPlugin {
 	}
 	public void onDisbale() {
 		System.out.println("Plugin Eteint");
+		
 	}
 
 }
